@@ -1,13 +1,13 @@
-# Kubernetes Auto-Scaling App ??
+# Kubernetes Auto-Scaling App
 
 This project demonstrates Kubernetes Horizontal Pod Autoscaler (HPA) in action using a simple Flask app that simulates CPU load.
 
-## ?? Stack
+## Stack
 - Python Flask
 - Docker
 - Kubernetes (HPA, Metrics Server)
 
-## ?? Getting Started
+##  Getting Started
 
 ### 1. Build and Push Docker Image
 \\\ash
