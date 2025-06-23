@@ -39,5 +39,3 @@ kubectl get pods -w
 
 
 ---
-
-Built with ?? to showcase Kubernetes autoscaling in action.
